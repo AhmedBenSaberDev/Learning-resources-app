@@ -1,4 +1,4 @@
-# shwarsmuller
+# Learn resources
 
 ## Project setup
 ```
